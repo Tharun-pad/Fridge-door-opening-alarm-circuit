@@ -1,5 +1,3 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d60ac0a0-e234-40c7-bc03-ef32ac7d0703" /># Fridge-door-opening-alarm-circuit
-
 ## Exp 4: Design an fridge door opening alarm circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an fridge door opening alarm circuit using Eagle software.
