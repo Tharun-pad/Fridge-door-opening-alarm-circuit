@@ -1,4 +1,4 @@
-# Fridge-door-opening-alarm-circuit
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d60ac0a0-e234-40c7-bc03-ef32ac7d0703" /># Fridge-door-opening-alarm-circuit
 
 ## Exp 4: Design an fridge door opening alarm circuit using Eagle software
 ## AIM:
@@ -45,7 +45,9 @@ The output of U1 is supplied to the second 555 timer (U2), which is configured i
 <img width="783" height="285" alt="image" src="https://github.com/user-attachments/assets/0c5e20fe-1f9d-4ec0-8558-d7b8db74dc24" />
 
 ### Schematic diagram
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3291e4f-7bc7-4459-8051-02b8662445f2" />
+<img width="1548" height="820" alt="image" src="https://github.com/user-attachments/assets/5af32d90-d806-45c2-a393-fdd37c7b6778" />
+
+
 
 
 ### Layout diagram
